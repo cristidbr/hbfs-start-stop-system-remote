@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "hbfs-remote-sumo-stm32.kicad_prl",
+    "filename": "hbfs-start-stop-system-remote.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

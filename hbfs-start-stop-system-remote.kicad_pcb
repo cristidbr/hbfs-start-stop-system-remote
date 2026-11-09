@@ -196,7 +196,7 @@
 		)
 		(path "/7baeb907-ca0d-475e-9b1f-73a387dfe11f")
 		(sheetname "/")
-		(sheetfile "hbfs-remote-sumo-stm32.kicad_sch")
+		(sheetfile "hbfs-start-stop-system-remote.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -368,7 +368,7 @@
 		)
 		(path "/022c019d-a127-48e2-a499-8222aef94fdf")
 		(sheetname "/")
-		(sheetfile "hbfs-remote-sumo-stm32.kicad_sch")
+		(sheetfile "hbfs-start-stop-system-remote.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -778,7 +778,7 @@
 		)
 		(path "/98cda0b6-59b1-4322-92ad-1d19d8a923aa")
 		(sheetname "/")
-		(sheetfile "hbfs-remote-sumo-stm32.kicad_sch")
+		(sheetfile "hbfs-start-stop-system-remote.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1101,7 +1101,7 @@
 		)
 		(path "/5b097f52-22f6-4275-a25c-1b1826914deb")
 		(sheetname "/")
-		(sheetfile "hbfs-remote-sumo-stm32.kicad_sch")
+		(sheetfile "hbfs-start-stop-system-remote.kicad_sch")
 		(units
 			(unit
 				(name "A")

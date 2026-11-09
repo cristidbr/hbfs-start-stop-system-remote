@@ -517,7 +517,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hbfs-remote-sumo-stm32.kicad_pro",
+    "filename": "hbfs-start-stop-system-remote.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -685,8 +685,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "hbfs-remote-sumo-stm32.kicad_sch",
-        "name": "hbfs-remote-sumo-stm32",
+        "filename": "hbfs-start-stop-system-remote.kicad_sch",
+        "name": "hbfs-start-stop-system-remote",
         "uuid": "93a3b8c3-481e-4fce-b934-c547866c05dc"
       }
     ],
@@ -696,7 +696,7 @@
   "sheets": [
     [
       "93a3b8c3-481e-4fce-b934-c547866c05dc",
-      "hbfs-remote-sumo-stm32"
+      "hbfs-start-stop-system-remote"
     ]
   ],
   "text_variables": {},

@@ -12270,7 +12270,7 @@
 			(uuid "6f7c7c0a-104e-4dc5-b429-76eaf75d9d69")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "SC1")
 					(unit 1)
@@ -12349,7 +12349,7 @@
 			(uuid "a83ef1e5-90cc-4a83-95fa-4f984dadd651")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR018")
 					(unit 1)
@@ -12497,7 +12497,7 @@
 			(uuid "eb64abfb-4ce4-482a-b672-136e1af9eaff")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "LED1")
 					(unit 1)
@@ -12575,7 +12575,7 @@
 			(uuid "eeb79a11-6f9f-470a-9228-63e25a118554")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR054")
 					(unit 1)
@@ -12653,7 +12653,7 @@
 			(uuid "5423e8bd-f2f9-46d6-a0c1-152813796bb0")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR010")
 					(unit 1)
@@ -12731,7 +12731,7 @@
 			(uuid "4270f798-4457-44e4-a4ca-85d20ef837e7")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR044")
 					(unit 1)
@@ -12811,7 +12811,7 @@
 			(uuid "3769ee2a-7a79-4d2a-85dd-cf7bda401d0b")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R22")
 					(unit 1)
@@ -12891,7 +12891,7 @@
 			(uuid "78001192-7101-4849-ae69-75ba06dc77a9")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R25")
 					(unit 1)
@@ -13038,7 +13038,7 @@
 			(uuid "874cf6f7-e14f-429a-8361-7cba5508009b")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "Q1")
 					(unit 1)
@@ -13116,7 +13116,7 @@
 			(uuid "6c184e7a-809f-4e74-9ed6-9a9af74dd4e6")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR03")
 					(unit 1)
@@ -13198,7 +13198,7 @@
 			(uuid "d089f0b1-5aff-46fa-b774-1ee786664ad0")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R4")
 					(unit 1)
@@ -13278,7 +13278,7 @@
 			(uuid "97482741-88ca-4441-96f7-82863a9824c2")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "SW3")
 					(unit 1)
@@ -13356,7 +13356,7 @@
 			(uuid "07044637-6907-481f-af9a-82ba8cade9d4")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR040")
 					(unit 1)
@@ -13434,7 +13434,7 @@
 			(uuid "2f56cbe1-be63-40bd-9520-8cecbee242ff")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR025")
 					(unit 1)
@@ -13575,7 +13575,7 @@
 			(uuid "b029198b-8e28-424b-b7f0-655fbf23517e")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "H5")
 					(unit 1)
@@ -13657,7 +13657,7 @@
 			(uuid "13eb7d94-edf8-4c58-9d13-3f99b8c8bdc0")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "C1")
 					(unit 1)
@@ -13735,7 +13735,7 @@
 			(uuid "780f31f6-d4f9-43c3-a397-49fffa19422b")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR052")
 					(unit 1)
@@ -13817,7 +13817,7 @@
 			(uuid "15004b18-3744-4c18-b13d-1b18ff97bf3c")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R12")
 					(unit 1)
@@ -13895,7 +13895,7 @@
 			(uuid "40bd4a70-74f4-4246-a6c6-7b8d6dbde71f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR04")
 					(unit 1)
@@ -13973,7 +13973,7 @@
 			(uuid "b5dd1707-f961-47ba-9530-3f8d91b5b560")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR026")
 					(unit 1)
@@ -14051,7 +14051,7 @@
 			(uuid "6f7b30a4-7d6b-4610-9bb3-7ed10312ed77")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR030")
 					(unit 1)
@@ -14131,7 +14131,7 @@
 			(uuid "a2430fb4-60bb-481c-b9c8-713d5cf9013f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R1")
 					(unit 1)
@@ -14213,7 +14213,7 @@
 			(uuid "39392e5a-aa81-4815-8b16-1956be7d68aa")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R19")
 					(unit 1)
@@ -14308,7 +14308,7 @@
 			(uuid "a8e8c800-6035-4f13-b219-d46061e0bec9")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "CN1")
 					(unit 1)
@@ -14388,7 +14388,7 @@
 			(uuid "3743bb91-0e40-4a2b-a5e7-80ba83c21da7")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R20")
 					(unit 1)
@@ -14466,7 +14466,7 @@
 			(uuid "162f3b48-de79-4d54-b65c-4da690912b1e")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR053")
 					(unit 1)
@@ -14544,7 +14544,7 @@
 			(uuid "45456472-d21c-4266-94da-3446641cdb21")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR049")
 					(unit 1)
@@ -14622,7 +14622,7 @@
 			(uuid "699bf55f-e736-4494-8d1b-f48f49b88923")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR042")
 					(unit 1)
@@ -14700,7 +14700,7 @@
 			(uuid "5b2a8dd8-3b7d-42e4-953c-56c9e82f3207")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR034")
 					(unit 1)
@@ -14781,7 +14781,7 @@
 			(uuid "45e951b4-5fe3-4d6c-80bd-387971bc1432")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "C7")
 					(unit 1)
@@ -14859,7 +14859,7 @@
 			(uuid "7ce0de43-bd5f-494e-bab0-fcf779d29e7f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR028")
 					(unit 1)
@@ -14937,7 +14937,7 @@
 			(uuid "f7236f6d-3b8a-457b-8ac7-5e95232eb2c6")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR056")
 					(unit 1)
@@ -15085,7 +15085,7 @@
 			(uuid "3d0e5468-7b10-4654-9896-5482aeb58476")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "LED4")
 					(unit 1)
@@ -15167,7 +15167,7 @@
 			(uuid "133db2a8-7d24-4370-b0d1-8964be9e16bc")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R17")
 					(unit 1)
@@ -15245,7 +15245,7 @@
 			(uuid "7267e3bc-ec01-4bd6-8a2c-8152e54f2190")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR051")
 					(unit 1)
@@ -15323,7 +15323,7 @@
 			(uuid "f82f0912-20f6-44d6-8726-895601b58b1f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR047")
 					(unit 1)
@@ -15405,7 +15405,7 @@
 			(uuid "7065469d-92ba-40e8-988e-4c9e97a72ef6")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R11")
 					(unit 1)
@@ -15583,7 +15583,7 @@
 			(uuid "347386af-2ef7-4743-bfc0-30e2966efcb7")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "SW1")
 					(unit 1)
@@ -15661,7 +15661,7 @@
 			(uuid "aa38d8f9-a6bb-45cc-a290-bcbae51d53fd")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR021")
 					(unit 1)
@@ -15802,7 +15802,7 @@
 			(uuid "b4bf0c61-3ace-4af3-83a2-4ce90227028e")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "H4")
 					(unit 1)
@@ -15976,7 +15976,7 @@
 			(uuid "7c2fe36f-50fb-429c-887c-5fbfcf0dbc48")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "CN3")
 					(unit 1)
@@ -16123,7 +16123,7 @@
 			(uuid "3fbae400-7d57-4416-aee9-74a5cce7e389")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "Q2")
 					(unit 1)
@@ -16205,7 +16205,7 @@
 			(uuid "2384650f-0836-4a29-b96e-6850082803b6")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "BT1")
 					(unit 1)
@@ -16286,7 +16286,7 @@
 			(uuid "d5e8fe8e-0dc5-4bb8-b216-3c8a1a943d2e")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "C6")
 					(unit 1)
@@ -16368,7 +16368,7 @@
 			(uuid "f7b05059-a56a-4898-b9c6-177779e6c47d")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "C2")
 					(unit 1)
@@ -16450,7 +16450,7 @@
 			(uuid "11e35285-9435-4968-811c-5c8ee1550357")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R8")
 					(unit 1)
@@ -16541,7 +16541,7 @@
 			(uuid "dd01ccd7-eeb5-4109-9bca-410c03dbfd49")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "D3")
 					(unit 1)
@@ -16619,7 +16619,7 @@
 			(uuid "4a28bbac-973d-458f-a03c-8ac626a547c9")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR08")
 					(unit 1)
@@ -16701,7 +16701,7 @@
 			(uuid "2836be60-bdb5-4723-8347-8c90f020eed4")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R16")
 					(unit 1)
@@ -16779,7 +16779,7 @@
 			(uuid "cc9608b4-889f-445e-97c2-c5553dd55a80")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR046")
 					(unit 1)
@@ -16857,7 +16857,7 @@
 			(uuid "677a0f67-3d3b-4dad-bc08-2bd6c6bf67a0")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR020")
 					(unit 1)
@@ -17039,7 +17039,7 @@
 			(uuid "fcc07345-8dbf-407c-a298-d8b094649436")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "U1")
 					(unit 1)
@@ -17117,7 +17117,7 @@
 			(uuid "764f6ba4-679c-4584-b66c-6853e73bcc49")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR037")
 					(unit 1)
@@ -17195,7 +17195,7 @@
 			(uuid "ab8c3056-947c-48b8-9dcf-c637c9d8ac78")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR015")
 					(unit 1)
@@ -17275,7 +17275,7 @@
 			(uuid "e37417e1-be1b-42c4-9eb5-b65e6a131c8e")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R14")
 					(unit 1)
@@ -17357,7 +17357,7 @@
 			(uuid "9a7348b1-6757-47a9-b3a3-4f72071285d1")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R6")
 					(unit 1)
@@ -17435,7 +17435,7 @@
 			(uuid "7fffda1b-2fbe-4847-be20-52326f3f27c0")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR055")
 					(unit 1)
@@ -17513,7 +17513,7 @@
 			(uuid "99cdfee3-9430-49c9-bb30-e7129725c06b")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR022")
 					(unit 1)
@@ -17591,7 +17591,7 @@
 			(uuid "20d6480d-6d72-4b19-a3f0-eea2579ead60")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR06")
 					(unit 1)
@@ -17671,7 +17671,7 @@
 			(uuid "bcfe570a-fcae-4b2c-b9e2-3a2407fb65c1")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "BT2")
 					(unit 1)
@@ -17812,7 +17812,7 @@
 			(uuid "4c7bbb00-a724-4a72-a4dc-6877a5447b51")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "H2")
 					(unit 1)
@@ -17894,7 +17894,7 @@
 			(uuid "eb030d0e-e584-4bea-a0ef-96ff782af7f4")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R13")
 					(unit 1)
@@ -17985,7 +17985,7 @@
 			(uuid "3f48358e-8a41-449f-8e3c-f2c9fbefe56c")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "D2")
 					(unit 1)
@@ -18063,7 +18063,7 @@
 			(uuid "187dc359-3ed0-4d8d-ae6c-d0acc7a3bf28")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR033")
 					(unit 1)
@@ -18145,7 +18145,7 @@
 			(uuid "308dd416-d55f-4271-9939-3a50be3aa17c")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R3")
 					(unit 1)
@@ -18223,7 +18223,7 @@
 			(uuid "ec83344c-18d3-44d5-b722-79d8433e105e")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR039")
 					(unit 1)
@@ -18326,7 +18326,7 @@
 			(uuid "94001df8-efcf-4ea8-97f7-4ee6bdc8bc12")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "U3")
 					(unit 1)
@@ -18473,7 +18473,7 @@
 			(uuid "b23c2f83-fa22-410d-8371-c7e61f364f26")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "IC1")
 					(unit 1)
@@ -18555,7 +18555,7 @@
 			(uuid "e0ada9df-0d67-4439-9930-da30ede5104f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R9")
 					(unit 1)
@@ -18646,7 +18646,7 @@
 			(uuid "ee24db73-d1c7-4913-ae44-716450420a81")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "D1")
 					(unit 1)
@@ -18724,7 +18724,7 @@
 			(uuid "b748c8a3-50f1-4c67-96f2-447a280129c0")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR02")
 					(unit 1)
@@ -18802,7 +18802,7 @@
 			(uuid "68ee452f-4bd9-4068-934b-6fc6aa722017")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR057")
 					(unit 1)
@@ -19016,7 +19016,7 @@
 			(uuid "12376705-a8db-4818-a890-06aff3ca62c5")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "BT3")
 					(unit 1)
@@ -19094,7 +19094,7 @@
 			(uuid "e9e9ed02-fae9-48b3-9274-7888c22b375d")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR050")
 					(unit 1)
@@ -19289,7 +19289,7 @@
 			(uuid "908cd112-121d-479d-8a66-25e982ddc50f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "CN2")
 					(unit 1)
@@ -19371,7 +19371,7 @@
 			(uuid "6be888be-061a-456c-99ef-9c7eb288c7ad")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "C5")
 					(unit 1)
@@ -19451,7 +19451,7 @@
 			(uuid "ae220505-3a82-4dd2-bdf7-cf4788cc5efc")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R21")
 					(unit 1)
@@ -19529,7 +19529,7 @@
 			(uuid "ceb25d77-b593-4160-b822-9728469849c7")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR012")
 					(unit 1)
@@ -19764,7 +19764,7 @@
 			(uuid "4c8dc775-26cb-4a45-9b95-45353e9f5c70")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "U4")
 					(unit 1)
@@ -19905,7 +19905,7 @@
 			(uuid "54b6c1bd-4b5c-4462-b015-50e3ef188937")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "H1")
 					(unit 1)
@@ -19985,7 +19985,7 @@
 			(uuid "9a8816ed-95c0-409a-a804-35ca907c387f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R24")
 					(unit 1)
@@ -20063,7 +20063,7 @@
 			(uuid "1de28da5-4ad6-416c-abf2-5661c2899b8d")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR05")
 					(unit 1)
@@ -20204,7 +20204,7 @@
 			(uuid "57427c39-dc51-40a8-9260-69f7d895c1e2")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "H3")
 					(unit 1)
@@ -20283,7 +20283,7 @@
 			(uuid "57b9d57c-bdf7-415e-aac0-d74011ef7973")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR017")
 					(unit 1)
@@ -20363,7 +20363,7 @@
 			(uuid "03ef9875-fecb-4536-bb7b-d066c8ca8fae")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R26")
 					(unit 1)
@@ -20441,7 +20441,7 @@
 			(uuid "59e607b1-8044-4221-94f6-74835fc5c0b6")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR031")
 					(unit 1)
@@ -20519,7 +20519,7 @@
 			(uuid "2d31ae4b-cf88-46c3-b406-bdfb0c7becf8")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR027")
 					(unit 1)
@@ -20597,7 +20597,7 @@
 			(uuid "ac1514e3-a2a8-418b-95bf-157eece6f83b")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR09")
 					(unit 1)
@@ -20677,7 +20677,7 @@
 			(uuid "b6307089-77c5-4822-87b4-1c68a233ad5c")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R23")
 					(unit 1)
@@ -20755,7 +20755,7 @@
 			(uuid "5352512a-5c02-47d9-a6ee-22e1d25f916f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR038")
 					(unit 1)
@@ -20837,7 +20837,7 @@
 			(uuid "4d0502e8-9ef0-428d-8131-f4ff9dde1b0d")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R10")
 					(unit 1)
@@ -20915,7 +20915,7 @@
 			(uuid "957a2931-5023-43df-bc93-29e4b157b003")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR048")
 					(unit 1)
@@ -20993,7 +20993,7 @@
 			(uuid "efc3885a-220c-4109-885b-ca2ca8e51d79")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR013")
 					(unit 1)
@@ -21071,7 +21071,7 @@
 			(uuid "5ec39a1b-cc19-4505-b1b9-6ed65b54b4d6")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR014")
 					(unit 1)
@@ -21149,7 +21149,7 @@
 			(uuid "3a493500-befb-4799-bf67-c5e971db1811")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR035")
 					(unit 1)
@@ -21227,7 +21227,7 @@
 			(uuid "246c080b-3023-4b99-9663-61a49b027b51")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR01")
 					(unit 1)
@@ -21309,7 +21309,7 @@
 			(uuid "2241e89b-8020-4ee4-a27e-74f73b89b819")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R15")
 					(unit 1)
@@ -21988,7 +21988,7 @@
 			(uuid "fc646f8b-4c86-47fc-b745-4e82ce612623")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "U2")
 					(unit 1)
@@ -22066,7 +22066,7 @@
 			(uuid "e34b5726-0ea3-41f3-9e3f-edb6d1b9326f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR045")
 					(unit 1)
@@ -22144,7 +22144,7 @@
 			(uuid "bfaac04e-8c8c-4993-946c-15c37d976154")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR07")
 					(unit 1)
@@ -22226,7 +22226,7 @@
 			(uuid "18919f07-727a-4d1b-a506-9261ca3a7381")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R18")
 					(unit 1)
@@ -22304,7 +22304,7 @@
 			(uuid "5e9d832a-5e74-428f-ab83-8cf4d38ec125")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR011")
 					(unit 1)
@@ -22382,7 +22382,7 @@
 			(uuid "5e4e93fa-8cc2-4b3c-a2a3-34e29d85ab0a")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR041")
 					(unit 1)
@@ -22523,7 +22523,7 @@
 			(uuid "a051c704-c127-4e25-836b-39de57760907")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "H6")
 					(unit 1)
@@ -22671,7 +22671,7 @@
 			(uuid "314f735b-01b5-40e4-a699-8b048529e05b")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "SW4")
 					(unit 1)
@@ -22749,7 +22749,7 @@
 			(uuid "352ac3ee-c6b3-4c5c-b868-ce86874885c3")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR023")
 					(unit 1)
@@ -22897,7 +22897,7 @@
 			(uuid "fdea5a3a-9594-462a-878b-7d855cb46a75")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "LED2")
 					(unit 1)
@@ -23045,7 +23045,7 @@
 			(uuid "cfd8efa1-16d9-4ff5-b41a-5387ae906f81")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "LED3")
 					(unit 1)
@@ -23125,7 +23125,7 @@
 			(uuid "8c2d01fa-4e56-43c7-9b80-b611273e9c71")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R2")
 					(unit 1)
@@ -23203,7 +23203,7 @@
 			(uuid "2704ef1e-f1f4-4ace-81fa-a5f8bfe0ec29")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR019")
 					(unit 1)
@@ -23281,7 +23281,7 @@
 			(uuid "51912e5b-bea2-4825-96c5-eba4589d689d")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR024")
 					(unit 1)
@@ -23363,7 +23363,7 @@
 			(uuid "5d66938f-45ae-4241-88fe-13e6f0a7748c")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R7")
 					(unit 1)
@@ -23445,7 +23445,7 @@
 			(uuid "3e5c92e5-54d7-478c-b791-3455d69b1414")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "C3")
 					(unit 1)
@@ -23523,7 +23523,7 @@
 			(uuid "c87601cb-c8d4-4f01-b4d7-b83ee0fa454a")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR036")
 					(unit 1)
@@ -23600,7 +23600,7 @@
 			(uuid "a295566c-7c21-49f9-a838-ed77078563cc")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR016")
 					(unit 1)
@@ -23682,7 +23682,7 @@
 			(uuid "3ba510b3-8f72-48ca-ba01-30ba795d644f")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "C4")
 					(unit 1)
@@ -23760,7 +23760,7 @@
 			(uuid "d2dd8516-febf-410e-b46c-7443017397a3")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR032")
 					(unit 1)
@@ -23840,7 +23840,7 @@
 			(uuid "39f98729-230b-4bff-b539-821a780c9652")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "SW2")
 					(unit 1)
@@ -23918,7 +23918,7 @@
 			(uuid "b6dc0d22-6afc-474c-ac03-d329694bda86")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR043")
 					(unit 1)
@@ -23996,7 +23996,7 @@
 			(uuid "de19921c-3159-4727-910c-8afaf03b8e59")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "#PWR029")
 					(unit 1)
@@ -24076,7 +24076,7 @@
 			(uuid "b1b5eae9-138a-4cd1-9f59-214c7677a323")
 		)
 		(instances
-			(project "hbfs-remote-sumo-stm32"
+			(project "hbfs-start-stop-system-remote"
 				(path "/93a3b8c3-481e-4fce-b934-c547866c05dc"
 					(reference "R5")
 					(unit 1)
