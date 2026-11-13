@@ -72,9 +72,4 @@ be sized for the appropriate cell used.
 ## Contributions
 
 HBFS Robotics contributes in the robotics space by dedicating its work to 
-the **public domain**. In some cases the original designs and methods 
-have been re-engineered for us to be able to share them under the more 
-permissive CC0 terms. 
-
-The successful design is copied, the unsucessful one is forgotten. 
-We find ways.
+the **public domain**. We find ways.
